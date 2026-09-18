@@ -1,9 +1,16 @@
 # Olá, eu sou o Alexsandro! 👋
 
 ### 🎯 Sobre Mim
-Profissional do setor financeiro (Banco Itaú) em transição para a área de Tecnologia (TI), focado em **Engenharia de QA / Automação de Testes**, **Análise de Dados**, **Análise de Sistemas** e **Suporte de TI**.
+Graduado em Administração, com MBA em Vendas, Negociação e Resultados e certificação ANBIMA CPA-20. Atuo no Banco Itaú, desenvolvendo experiência no mercado financeiro com foco em performance e tomada de decisão. 
+
+Atualmente, estou em transição estratégica para a área de **Tecnologia e Dados**, cursando **Análise e Desenvolvimento de Sistemas** e me especializando em **Análise de Dados** , **Suporte Help Desk** e **Engenharia de QA / Automação de Testes**.
+
+Meu objetivo é unir a visão de negócios e o conhecimento financeiro à análise de dados e à qualidade de software para gerar insights, otimizar processos e apoiar decisões estratégicas.
 
 - 🏢 **Empresa atual:** Banco Itaú
+- ♿ **PCD:** Deficiência Auditiva
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas | Graduação em Administração | MBA em Vendas & Negociação
+- 📜 **Certificação:** ANBIMA CPA-20
 - 💡 **Interesses:** Automação de Testes (E2E / API), SQL Avançado, Python, Pipelines de Dados e Qualidade de Software.
 - 📬 **Contato:** [LinkedIn](https://www.linkedin.com/in/alexsandro-andrade-da-silva/)) | [E-mail](mailto:alexsandro.vpr@gmail.com)
 
@@ -26,6 +33,7 @@ Profissional do setor financeiro (Banco Itaú) em transição para a área de Te
 
 ---
 
-📉 **Estatísticas do GitHub**
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexsandroBR&show_icons=true&theme=radial)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroBR&layout=compact&theme=radial)
+### 📉 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexsandroBR&show_icons=true&theme=radial&cache_seconds=1800)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroBR&layout=compact&theme=radial&cache_seconds=1800)
