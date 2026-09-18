@@ -35,5 +35,5 @@ Meu objetivo é unir a visão de negócios e o conhecimento financeiro à análi
 
 ### 📉 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexsandroBR&show_icons=true&theme=radial&cache_seconds=1800)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroBR&layout=compact&theme=radial&cache_seconds=1800)
+![GitHub Streak](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Especializando+em+QA+%26+Dados;Transição+de+Carreira+Itaú)
+![Estatísticas](https://github-readme-streak-stats.herokuapp.com/?user=AlexsandroBR&theme=radial)
