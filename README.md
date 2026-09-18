@@ -29,7 +29,11 @@ Meu objetivo é unir a visão de negócios e o conhecimento financeiro à análi
 ---
 
 ### 📌 Repositórios em Destaque
-- 🧪 **[Autentica-es](https://github.com/AlexsandroBR/Autentica-es):** Testes e validações de rotas de autenticação.
+
+- 📊 **[Analise-Dados-Financeiros](https://github.com/AlexsandroBR):** Pipeline de dados em Python (Pandas/SQL), relatórios em Excel e Dashboard interativo no Power BI para análise de indicadores financeiros.
+- ⚙️ **[Consultas-SQL-e-Suporte](https://github.com/AlexsandroBR):** Coleção de queries SQL avançadas (JOINs, Group By, Subqueries) para diagnóstico de sistemas, extração de dados e suporte operacional.
+- 🐍 **[Automacoes-Python-TI](https://github.com/AlexsandroBR):** Scripts em Python para manipulação de planilhas Excel, leitura de arquivos de log e automação de tarefas repetitivas de TI.
+- 🧪 **[Autentica-es](https://github.com/AlexsandroBR/Autentica-es):** Projeto inicial de testes e validações em rotas de autenticação.
 
 ---
 
