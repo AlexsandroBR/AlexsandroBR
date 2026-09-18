@@ -11,7 +11,7 @@ Meu objetivo é unir a visão de negócios e o conhecimento financeiro à análi
 - ♿ **PCD:** Deficiência Auditiva
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas | Graduação em Administração | MBA em Vendas & Negociação
 - 📜 **Certificação:** ANBIMA CPA-20
-- 💡 **Interesses:** Automação de Testes (E2E / API), SQL Avançado, Python, Pipelines de Dados e Qualidade de Software.
+- 💡 **Interesses:** Suporte Help Desk, Automação de Testes (E2E / API), SQL Avançado, Python, Pipelines de Dados e Qualidade de Software.
 - 📬 **Contato:** [LinkedIn](https://www.linkedin.com/in/alexsandro-andrade-da-silva/)) | [E-mail](mailto:alexsandro.vpr@gmail.com)
 
 ---
